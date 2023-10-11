@@ -1,0 +1,42 @@
+body {
+  background: #007bffdd;
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+}
+
+.card-img-left {
+  width: 45%;
+  /* Link to your background image using in the property below! */
+  background: scroll center url('/IMAGE/cifrado-imag.jpg');
+  background-size: cover;
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  width: 200px;
+}
+
+
+.d-flex{
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.form-floating{
+  margin-top: 30px;
+}
+
+.btn-primary{
+  margin-right: 10px;
+}
+
+.custom-shadow {
+  box-shadow: 0 5 20px rgba(0, 0, 0, 0.566); /* Personaliza la sombra según tus preferencias */
+}
+
+.text-primary{
+  text-decoration: none;
+}
+
